@@ -1,0 +1,1 @@
+I used Erik's code to convert image to csv files. The first column of csv file includes label, and the other column includes feature. For a finite time of epoch, there is each iteration that iterates random index of training file. Then, the test file is run to guess if the training is accurately done. Output.txt contains output of test file check.
